@@ -2,7 +2,7 @@
 
 I'm a software dev from Latvia, specializing in back-end development, but also interested in expanding my skills outward into other areas of software development. 
 
-Currently my skillset includes Java 7/8/17, Spring Framework, JPA, SQL, and some frontend basics with React JS. I'm also adept at utilizing Docker and Jenkins.
+Currently my skillset includes Java, Spring Framework, JPA, SQL, and some frontend basics with React JS. I'm also adept at utilizing Docker and Jenkins.
 
 Here I'm hoping to both track my work, expand my skills further, and build a body of work to show others.
 
